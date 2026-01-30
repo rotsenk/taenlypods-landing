@@ -23,7 +23,7 @@ Una landing page profesional para auriculares futuristas, construida con React, 
 
 ```bash
 # Clonar el repositorio
-git clone <repo-url>
+git clone https://github.com/rotsenk/taenlypods-landing.git
 
 # Navegar al directorio
 cd TaenlyPods-landing
